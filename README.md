@@ -2,7 +2,7 @@
 
 
 Name: Abdirahman Abdirahman  
-Course: CSCI 1913: Introduction to Algorithms,Data Structures, and Program Development 
+Course: CSCI 1913: Introduction to Algorithms,Data Structures, and Program Development   
 Date: November 9, 2017  
 
 
