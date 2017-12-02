@@ -1,10 +1,10 @@
 # PolynomialArithmetic
 
 
-Name: Abdirahman Abdirahman
-Project: Polynomial Arithmetic
-Course: CSCI 1913: Introduction to Algorithms,Data Structures, and Program Development
-Date: November 9, 2017
+Name: Abdirahman Abdirahman  
+Project: Polynomial Arithmetic  
+Course: CSCI 1913: Introduction to Algorithms,Data Structures, and Program Development  
+Date: November 9, 2017  
 
 
 
